@@ -1,0 +1,368 @@
+.root {
+    position: relative;
+    width: 1502px;
+    height: 1495px;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #fff;
+    overflow: hidden;
+  }
+  .rectangle2 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1502px;
+    height: 1497px;
+    background-image: linear-gradient(139.5deg, #0a5783ff 5%, #18a19aff 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
+  .icon_211 {
+    position: absolute;
+    left: 557px;
+    top: 395px;
+    width: 525px;
+    height: 515px;
+    background-image: url('../../public/_211.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .rectangle3 {
+    position: absolute;
+    left: 600px;
+    top: 322px;
+    width: 265px;
+    height: 68px;
+    border-radius: 32px;
+    background-color: #fb7306;
+    box-shadow: 2px 3px 3px 0px #074553;
+  }
+  .getStarted {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 642px;
+    top: 334px;
+    width: 185px;
+    height: 51px;
+    flex-direction: column;
+  }
+  .checkYourFinancialHealth {
+    color: #fff;
+    font-size: 76px;
+    font-weight: 600;
+    position: absolute;
+    left: 213px;
+    top: 84px;
+    width: 1086px;
+    height: 101px;
+    flex-direction: column;
+}
+
+  .useWeathoMeterToGetAFreeReport {
+    position: absolute;
+    left: 433px;
+    top: 199px;
+    width: 614px;
+    height: 92px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .textBlock {
+    color: #fff;
+    font-size: 32px;
+    line-height: 130%;
+    font-weight: 200;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock2 {
+    margin-top: 0;
+    color: #fff;
+    font-size: 32px;
+    line-height: 130%;
+    font-weight: 200;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .expectedRetirementAge {
+    color: #fff;
+    font-size: 29px;
+    font-weight: 600;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 148px;
+    top: 499px;
+    width: 438px;
+    height: 42px;
+    flex-direction: column;
+  }
+  .identifyMistakes {
+    color: #fff;
+    font-size: 29px;
+    font-weight: 600;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 151px;
+    top: 586px;
+    width: 438px;
+    height: 42px;
+    flex-direction: column;
+  }
+  .line1 {
+    position: absolute;
+    left: 149px;
+    top: 562px;
+    width: 363px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    outline: solid 1.5px #fff;
+  }
+  .line2 {
+    position: absolute;
+    left: 149px;
+    top: 650px;
+    width: 363px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    outline: solid 1.5px #fff;
+  }
+  .icon_111 {
+    position: absolute;
+    left: 101px;
+    top: 500px;
+    width: 41px;
+    height: 41px;
+    background-image: url('../../public/_111.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .icon_112 {
+    position: absolute;
+    left: 101px;
+    top: 589px;
+    width: 41px;
+    height: 41px;
+    background-image: url('../../public/_112.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .personalisedRoadMap {
+    color: #fff;
+    font-size: 29px;
+    font-weight: 600;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 992px;
+    top: 499px;
+    width: 438px;
+    height: 42px;
+    flex-direction: column;
+  }
+  .tipsToImprove {
+    color: #fff;
+    font-size: 29px;
+    font-weight: 600;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 995px;
+    top: 586px;
+    width: 438px;
+    height: 42px;
+    flex-direction: column;
+  }
+  .line12 {
+    position: absolute;
+    left: 993px;
+    top: 562px;
+    width: 363px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    outline: solid 1.5px #fff;
+  }
+  .line22 {
+    position: absolute;
+    left: 993px;
+    top: 650px;
+    width: 363px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    outline: solid 1.5px #fff;
+  }
+  .icon_1112 {
+    position: absolute;
+    left: 945px;
+    top: 500px;
+    width: 41px;
+    height: 41px;
+    background-image: url('../../public/_1112.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .icon_1122 {
+    position: absolute;
+    left: 945px;
+    top: 589px;
+    width: 41px;
+    height: 41px;
+    background-image: url('../../public/_1122.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .vector1 {
+    position: absolute;
+    left: -17px;
+    top: 705px;
+    width: 1526px;
+    height: 790px;
+    overflow: visible;
+  }
+  .icon {
+    width: 100%;
+    height: 100%;
+  }
+  .rectangle32 {
+    position: absolute;
+    left: 614px;
+    top: 1364px;
+    width: 265px;
+    height: 68px;
+    border-radius: 32px;
+    background-color: #fb7306;
+    box-shadow: 2px 3px 3px 0px #074553;
+  }
+  .getStarted2 {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 656px;
+    top: 1376px;
+    width: 185px;
+    height: 51px;
+    flex-direction: column;
+  }
+  .howItWorks {
+    color: #fff;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 535px;
+    top: 962px;
+    width: 436px;
+    height: 94px;
+    flex-direction: column;
+  }
+  .icon_11 {
+    position: absolute;
+    left: 305px;
+    top: 889px;
+    width: 884px;
+    height: 497px;
+    background-image: url('../../public/_11.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .answerFewQuestions {
+    position: absolute;
+    left: 294px;
+    top: 1207px;
+    width: min-content;
+    height: min-content;
+    text-align: center;
+    align-items: center;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .textBlock3 {
+    color: #fff;
+    font-size: 27px;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: 0.07em;
+  }
+  .textBlock4 {
+    margin-top: 0;
+    color: #fff;
+    font-size: 27px;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: 0.07em;
+  }
+  .registerUsingPhoneAndOTP {
+    position: absolute;
+    left: 631px;
+    top: 1207px;
+    width: min-content;
+    height: min-content;
+    text-align: center;
+    align-items: center;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .textBlock5 {
+    color: #fff;
+    font-size: 27px;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: 0.07em;
+  }
+  .textBlock6 {
+    margin-top: 0;
+    color: #fff;
+    font-size: 27px;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: 0.07em;
+  }
+  .getReportAndPersonalRoadmap {
+    position: absolute;
+    left: 970px;
+    top: 1207px;
+    width: min-content;
+    height: min-content;
+    text-align: center;
+    align-items: center;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .textBlock7 {
+    color: #fff;
+    font-size: 27px;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: 0.07em;
+  }
+  .textBlock8 {
+    margin-top: 0;
+    color: #fff;
+    font-size: 27px;
+    font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: 0.07em;
+  }
+  
+
